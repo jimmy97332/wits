@@ -22,5 +22,10 @@ file.max-size=5242880
 * Content-Type: multipart/form-data
 * Parameters:
   * file: The file to be uploaded.
+      
+## Supports only the following file types:
+* JPEG images (image/jpeg)
+* PNG images (image/png)
+* PDF documents (application/pdf)
  
-  
+   
